@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeremiah Bledsoe
 
-<!--
-**JeremiahBledsoe/JeremiahBledsoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring cybersecurity and IT professional with experience in AI/ML data ops, cloud infrastructure, and technical support. Former Apple contractor (top 15%), currently an IT Program Manager Intern.
 
-Here are some ideas to get you started:
+🛠️ Skills: Windows, Linux, Python, Networking, CompTIA A+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Certifications: A+, ITF+, Google IT/Cybersecurity/Python
+
+🔧 Projects:
+- AI Server w/ Ollama (LLMs on VPS)
+- Secure Email & Website Server (NGINX)
+- Remote Windows Server (RDP, user management)
+
+📫 Reach me: [jeremiahbledsoe.com](https://jeremiahbledsoe.com) • jeremiah@jeremiahbledsoe.com
