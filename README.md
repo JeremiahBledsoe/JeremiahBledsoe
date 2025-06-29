@@ -2,7 +2,7 @@
 
 I'm an IT and cybersecurity enthusiast with hands-on experience in AI/ML data operations, cloud infrastructure, and technical support. I’ve worked on projects across Apple’s AI ecosystem, IT program management, and startup development.
 
-🛠Skills: Windows, Linux, Python, Networking, CompTIA A+
+Skills: Windows, Linux, Python, Networking, CompTIA A+
 
 Certifications: CompTIA A+, ITF+, Google IT Support, Cybersecurity, and Python Automation
 
