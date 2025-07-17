@@ -1,6 +1,6 @@
 # Hi, I'm Jeremiah Bledsoe
 
-I'm an IT and cybersecurity enthusiast with hands-on experience in AI/ML data operations, cloud infrastructure, and technical support. I’ve worked on projects across Apple’s AI ecosystem, IT program management, and startup development.
+I'm an IT and cybersecurity enthusiast with hands-on experience in AI/ML data operations, cloud infrastructure, and technical support. I’ve worked on projects across Apple’s AI ecosystem, Information Technology, and startup development.
 
 Skills: Windows, Linux, Python, Networking, CompTIA A+
 
