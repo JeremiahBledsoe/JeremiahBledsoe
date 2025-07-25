@@ -1,5 +1,3 @@
 # Hi, I'm Jeremiah Bledsoe
 
-IT Enthusiast
-
-Reach me: [jeremiahbledsoe.com](https://jeremiahbledsoe.com) • jeremiah@jeremiahbledsoe.com
+Everything you're looking for is on my website: [jeremiahbledsoe.com](https://jeremiahbledsoe.com)
